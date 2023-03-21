@@ -1,0 +1,7 @@
+columns:
+  type: object
+  amount: float64
+  oldbalanceOrg: float64
+  newbalanceOrig: float64
+ 
+target_column: isFraud
